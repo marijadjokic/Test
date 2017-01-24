@@ -1,1 +1,3 @@
 print "Maja"
+
+print "Danko"
